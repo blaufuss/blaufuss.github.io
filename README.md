@@ -17,6 +17,6 @@ My primary research area of interest is [Particle Astrophysics](https://en.wikip
   * [IceCube Open Source Code](https://github.com/IceCubeOpenSource)
 
 ### Sites of interest
-  * https://arstechnica.com/
-  * https://octoprint.org/
-  * https://altonbrown.com/
+  * [https://arstechnica.com/](https://arstechnica.com/)
+  * [https://octoprint.org/](https://octoprint.org/)
+  * [https://altonbrown.com/](https://altonbrown.com/)
