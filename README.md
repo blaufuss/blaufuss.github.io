@@ -8,7 +8,7 @@ My primary research area of interest is [Particle Astrophysics](https://en.wikip
 
 ### Downloads
   * [My CV](2PgCV.pdf)
-  * [My thesis (2000)](thesis.pdf.gz)
+  * [My thesis (2000)](https://digitalcommons.lsu.edu/gradschool_disstheses/7339/)
   
 ### IceCube links
   * [IceCube Public data releases](https://icecube.wisc.edu/science/data)
