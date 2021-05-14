@@ -12,9 +12,9 @@ My primary research area of interest is [Particle Astrophysics](https://en.wikip
   
 ### IceCube links
   * [IceCube Public data releases](https://icecube.wisc.edu/science/data)
-  * [IceCube Realtime Alerts](https://roc.icecube.wisc.edu/)
+  * [IceCube Realtime Alerts](https://icecube.wisc.edu/science/real-time-alerts/)
   * [GCN IceCube-AMON Alerts Page](https://gcn.gsfc.nasa.gov/amon.html)
-  * [IceCube Open Source Code](https://github.com/IceCubeOpenSource)
+  * [IceCube Software on GitHub](https://github.com/icecube)
 
 ### Sites of interest
   * [https://arstechnica.com/](https://arstechnica.com/)
